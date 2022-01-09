@@ -178,6 +178,24 @@ Description: no description given
 License: unknown
 Vendor: none
 
+Package: proxyscan
+Version: 2.6.1.0
+Architecture: amd64
+Maintainer: none
+Installed-Size: 3362
+Depends: unzip, geolite
+Filename: ./proxyscan_2.6.1.0_noarch.deb
+Size: 3144322
+MD5sum: 31ba7f62f8bc32f42b6f64921c8cfb6e
+SHA1: bbb0881d7adcb0994c7a49c94749eb4b52f38e75
+SHA256: 4616f4124c2fbdb556e730d352afd8544bab3320095147d5d5606d9b9a8f27be
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+
 Package: synscan
 Version: 1.1.0.0
 Architecture: amd64
