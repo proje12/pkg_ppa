@@ -221,10 +221,10 @@ Maintainer: none
 Installed-Size: 3363
 Depends: unzip, geolite
 Filename: ./proxyscan_2.6.2.1_noarch.deb
-Size: 3144328
-MD5sum: 193937fc9b1ad611f9aba6aa253aa2e9
-SHA1: ef83275412fec016d7794d3098ce158e78a47548
-SHA256: 04cad1b69d50955df8a20b3443db437f3e9cbe2db42015f530127deabee14213
+Size: 3144334
+MD5sum: 44d3b68f5691e22ae95f77cf6eb96e91
+SHA1: 0e0fb2f7f222cff6a278d581bf6ff27b28b9e5f4
+SHA256: 85f394441403f6502aed2c3336b7940b868673539844df9b7fa1c9374eff2a36
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
