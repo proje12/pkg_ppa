@@ -252,14 +252,14 @@ Vendor: none
 
 Package: proxyscan-script
 Version: 0.0.1
-Architecture: amd64
+Architecture: all
 Maintainer: none
 Installed-Size: 3
 Filename: ./proxyscan-script_0.0.1_noarch.deb
 Size: 2888
-MD5sum: bb744d90ae638ed3fa11eabd1c8f7e3a
-SHA1: 56c5ed01650c0ee2daaaacb471ab6ac49f62ab2e
-SHA256: 48b344b2cd0c0d1bbb920aa02ac31c2c654d538d42032ee62d266698379d80fe
+MD5sum: 4c552fb788829a98514424b1aa25f5ae
+SHA1: 666cc51f74029e785b953c42b90979f14ff72102
+SHA256: 982bb754a051fc539e08f015818dbf9e33b6e82c751042d382a14f3b6937c5d1
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
