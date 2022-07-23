@@ -339,6 +339,23 @@ Description: no description given
 License: unknown
 Vendor: none
 
+Package: synscan
+Version: 1.1.1
+Architecture: amd64
+Maintainer: none
+Installed-Size: 2990
+Filename: ./synscan_1.1.1_noarch.deb
+Size: 2884816
+MD5sum: 02d1c720db5af774b5d88806f0b4a5a6
+SHA1: d47093cae8dce3a99750b891e0a5bf336dc6644a
+SHA256: 7a6399c7c3326761c054fd2ede31dc217b7ea7ddcea06d107d7cb307c012ae30
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+
 Package: synscan-script
 Version: 0.0.1
 Architecture: all
