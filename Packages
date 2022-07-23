@@ -343,12 +343,12 @@ Package: synscan
 Version: 1.1.1
 Architecture: amd64
 Maintainer: none
-Installed-Size: 2990
+Installed-Size: 2991
 Filename: ./synscan_1.1.1_noarch.deb
-Size: 2884764
-MD5sum: 4dd5a62c82cf75591fef382477cf644e
-SHA1: e25d47092ce7a78052f0afac18a945054fcb4380
-SHA256: be7dccc7854ddabc53a63ed1bbc7e2ce012158fb0514c71e3f55bdb494efed6d
+Size: 2884966
+MD5sum: f9f32f0da00809a5310e488595a4401c
+SHA1: da010769330641cd3c08f1f78981b0ce04e27695
+SHA256: 484ca25da31fc79f8bff68e8f2b546ef3453bd5f3de26d6200107a697229e930
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
