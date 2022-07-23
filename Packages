@@ -17,240 +17,6 @@ License: unknown
 Vendor: none
 
 Package: proxyscan
-Version: 2.5.0.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3361
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.0.0_noarch.deb
-Size: 3143078
-MD5sum: cdcb65ffcedefbb82c6cae92d05a75bd
-SHA1: 31e1c5152794450ef1909e557030db685f157448
-SHA256: 42a8a8b60c5b63bfc9347311da562b43b0222a59e82a3d218820876a61893223
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.0.1
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3361
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.0.1_noarch.deb
-Size: 3143096
-MD5sum: e309255689c6e72fe1466e84e5986157
-SHA1: 89179c1e4dae1dedbf68cc289c5aa3d395c2f605
-SHA256: c7ac6857df222d4e960aeada9be58f69ee9fc8b11da9f8c1b0a83552a41a9c8c
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.1.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3361
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.1.0_noarch.deb
-Size: 3143476
-MD5sum: 11d5a5c9d914003300c5895e9b936657
-SHA1: 925f6b1d0ca3c0cef26a13741b0108def1212cb8
-SHA256: 114d2dbccb26b51bdf366de5674ad02080b5b4bb208f8bd171a47a2ef62a98f2
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.3.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3361
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.3.0_noarch.deb
-Size: 3142878
-MD5sum: 99edf3d886d9313ef5362d0eb16e5803
-SHA1: 425d012c3bc89b7c534cad1cb507b0c8dd2b984e
-SHA256: b95e931d5b5cc79854f9266833ee4dca878492b5bf6b0f07d4b41c699b1d54c2
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.4.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3361
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.4.0_noarch.deb
-Size: 3142846
-MD5sum: ba3f0b0737d822dae9c1169f3b8ba4cf
-SHA1: c9e9aebe070d731d07ac7927e72c5bb86d3c09e5
-SHA256: e05d99ebf127a431a45ac25907bf1259e8f0013b410e824756743338ee256a81
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.5.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3360
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.5.0_noarch.deb
-Size: 3141984
-MD5sum: c824b4eca807361557b319c804e2b075
-SHA1: 5a4ce3c6258811452a9424fa40026e5a933a5ae8
-SHA256: 90170cc226968bad991f8864a1881ae360fadc914ca410c23e69985c22ebdb6e
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.5.1
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3360
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.5.1_noarch.deb
-Size: 3142072
-MD5sum: 2f295a6e9b3421b9e5678d939ed3fbd2
-SHA1: 7bee5ee6dda771fe66d5816badad39c4e7f3fcff
-SHA256: c64a733e71759739e44c148ff3616d8d7107eb23414515aaae77fd4d770b58e1
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.5.6.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3360
-Depends: unzip, geolite
-Filename: ./proxyscan_2.5.6.0_noarch.deb
-Size: 3142362
-MD5sum: be3bd9dfca6e6106fbc27f3a3d1cc1d9
-SHA1: 7a53a67c4a77519f4599a93d849e1919dcc4cf97
-SHA256: 343bc71c6630ac0404b0b2ea786a889926856748662a325f1ab795577c6cc43e
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.6.0.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3362
-Depends: unzip, geolite
-Filename: ./proxyscan_2.6.0.0_noarch.deb
-Size: 3144358
-MD5sum: f49c0ede01d0f2ceba9088197bb384c9
-SHA1: 38f1ccb21f905d0767773cca886c31fc73dfbf45
-SHA256: a92246b71e8175b55a04639c95db59a03e67001fd8f63fb79f4e8f42dd55d976
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.6.1.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3362
-Depends: unzip, geolite
-Filename: ./proxyscan_2.6.1.0_noarch.deb
-Size: 3143588
-MD5sum: 22b4eac39d9d0940089296deacb69933
-SHA1: 10db49d01310f1d26cde8d61fbe776fc45070d39
-SHA256: e3c433f01f7b3ab1b17a9808e62d254120deb03a7b38bbd5953769e9c57261f6
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.6.2.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3362
-Depends: unzip, geolite
-Filename: ./proxyscan_2.6.2.0_noarch.deb
-Size: 3143586
-MD5sum: 7ba71c22f9f0143bf2009b97b053e036
-SHA1: 04dec53715c88f3693d47b9e3f35d33197f4164f
-SHA256: d074dae3401774477c636c85c7d2e8dd2a0245b6eada6cc773f49ec9db5c46f8
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.6.2.1
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3363
-Depends: unzip, geolite
-Filename: ./proxyscan_2.6.2.1_noarch.deb
-Size: 3144334
-MD5sum: 44d3b68f5691e22ae95f77cf6eb96e91
-SHA1: 0e0fb2f7f222cff6a278d581bf6ff27b28b9e5f4
-SHA256: 85f394441403f6502aed2c3336b7940b868673539844df9b7fa1c9374eff2a36
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
-Version: 2.6.2.2
-Architecture: amd64
-Maintainer: none
-Installed-Size: 3363
-Depends: unzip, geolite
-Filename: ./proxyscan_2.6.2.2_noarch.deb
-Size: 3144336
-MD5sum: e9eaf1d26fd732d57e782f0117d0ec6e
-SHA1: f97e32ef99fb20d184e2af370134bddaef71291e
-SHA256: 7f48d5cdf9c7186c60a94247fca7f3d5df9a79eb8cf01b2d9c931bd40cbbda32
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan
 Version: 2.6.3
 Architecture: all
 Maintainer: none
@@ -261,23 +27,6 @@ Size: 3142328
 MD5sum: 5aa5397339ff5d35089b98edfb8a4300
 SHA1: 9c8327adfaf9bb3687bd2a2217abb9748d631574
 SHA256: e6c3bd80b520225ec317950207aa94a0a9f288b251193b698f067fdd190e0473
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: proxyscan-script
-Version: 0.0.1
-Architecture: all
-Maintainer: none
-Installed-Size: 3
-Filename: ./proxyscan-script_0.0.1_noarch.deb
-Size: 2888
-MD5sum: 4c552fb788829a98514424b1aa25f5ae
-SHA1: 666cc51f74029e785b953c42b90979f14ff72102
-SHA256: 982bb754a051fc539e08f015818dbf9e33b6e82c751042d382a14f3b6937c5d1
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -304,42 +53,6 @@ License: unknown
 Vendor: none
 
 Package: synscan
-Version: 1.1.0.0
-Architecture: amd64
-Maintainer: none
-Installed-Size: 2995
-Depends: unzip, wget
-Filename: ./synscan_1.1.0.0_noarch.deb
-Size: 2887654
-MD5sum: bd4f22d6fd4711bdf63f4caea00adebf
-SHA1: 701ea01ec37fa1a6af03914a2bfc4a453be3327f
-SHA256: 3d095eb177ff8b92fecb2421e14c91c178f8859f1fe6ffa1ddf892b8957a5845
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: synscan
-Version: 1.1.0.1
-Architecture: amd64
-Maintainer: none
-Installed-Size: 2995
-Depends: unzip, wget
-Filename: ./synscan_1.1.0.1_noarch.deb
-Size: 2887652
-MD5sum: 5683ce9a5c708b97084055ecf8b2e005
-SHA1: 8f7dc5b2120da9b3f200d7326f9a4486ccb4030e
-SHA256: 086988293b95f517e3eb595dc6fa130bdb195ca26b9c9c1f6377a1ece12fb41c
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: synscan
 Version: 1.1.1
 Architecture: amd64
 Maintainer: none
@@ -357,34 +70,16 @@ License: unknown
 Vendor: none
 
 Package: synscan-script
-Version: 0.0.1
-Architecture: all
-Maintainer: none
-Installed-Size: 5
-Depends: synscan, unzip, wget
-Filename: ./synscan-script_0.0.1_noarch.deb
-Size: 4084
-MD5sum: c12f157309a7a3e9c3a28f2dd7eeceb5
-SHA1: db64b6563cbd7c91843c1d6b36d5b4f4f3afad95
-SHA256: 8fd6d3b2742a45a5ee5148c9f6b2e065bfdb5d102ee856fd19a64a3104c5fbe7
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: no description given
-License: unknown
-Vendor: none
-
-Package: synscan-script
 Version: 1.0.0
 Architecture: all
 Maintainer: none
 Installed-Size: 5
 Depends: synscan, net-tools, unzip, wget
 Filename: ./synscan-script_1.0.0_noarch.deb
-Size: 4078
-MD5sum: 30da73260dcfd6e9abb7895dd646d00f
-SHA1: 5f5669df7e1830d0a266c99e70bf6640967f613d
-SHA256: 8b7a12abee594c9b1ea6c1198c37bfc77d673357eb151e672ea03de26cc33ac5
+Size: 4074
+MD5sum: 1318df6592a4360bbf9b2eae656616ae
+SHA1: c25b35e0c5f70a42c799e2064eb7859f744100c5
+SHA256: d621860005419f301a2b6e6b5beeb759789dbb97ec3db595c0970fb66fd4df4c
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
