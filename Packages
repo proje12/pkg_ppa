@@ -52,6 +52,24 @@ Description: no description given
 License: unknown
 Vendor: none
 
+Package: proxyscan-script
+Version: 1.0.0
+Architecture: all
+Maintainer: none
+Installed-Size: 3
+Depends: proxyscan
+Filename: ./proxyscan-script_1.0.0_noarch.deb
+Size: 2898
+MD5sum: 2215e32006d5b5ec24eddcd6339b1ef5
+SHA1: f05fec42aeb320cb90871127afbfbe0ca52ac815
+SHA256: 04be65c25eab05c18ec89189826346dd758eabc1ee245c5bd4419752c25badd9
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+
 Package: synscan
 Version: 1.1.1
 Architecture: amd64
