@@ -111,10 +111,10 @@ Maintainer: none
 Installed-Size: 5
 Depends: synscan, net-tools, unzip, wget
 Filename: ./synscan-script_1.0.0_noarch.deb
-Size: 4074
-MD5sum: 1318df6592a4360bbf9b2eae656616ae
-SHA1: c25b35e0c5f70a42c799e2064eb7859f744100c5
-SHA256: d621860005419f301a2b6e6b5beeb759789dbb97ec3db595c0970fb66fd4df4c
+Size: 4120
+MD5sum: 69e9b072bc4d601d07910ec783d82211
+SHA1: 7a0097ab709ac1fb60878cc857e6e2d869a3f55d
+SHA256: 8e44a6c57e6032ce98edb2297638cf84a1d72cf05d1e595e1f97212d00909ba3
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
