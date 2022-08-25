@@ -174,3 +174,21 @@ Description: no description given
 License: unknown
 Vendor: none
 
+Package: synscan-script
+Version: 1.1.1
+Architecture: all
+Maintainer: none
+Installed-Size: 5
+Depends: synscan, net-tools, unzip, wget
+Filename: ./synscan-script_1.1.1_noarch.deb
+Size: 4276
+MD5sum: e8f73b20b7f900366149ffa231c82778
+SHA1: 7756bcc8b60dd328d6bded16be66c44269debef5
+SHA256: e6645f1d375e8b84587095bae35157ea18f8ca240611209aba24492c038016d5
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+
