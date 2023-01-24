@@ -52,6 +52,24 @@ Description: no description given
 License: unknown
 Vendor: none
 
+Package: proxyscan
+Version: 2.8.0
+Architecture: all
+Maintainer: none
+Installed-Size: 3363
+Depends: unzip, geolite
+Filename: ./proxyscan_2.8.0_noarch.deb
+Size: 3145324
+MD5sum: e209885d11fdb8c22e4a73a70e0af930
+SHA1: d7c2f69f857a2f262e18a7b62063475188d60f7b
+SHA256: 21bacc26220d220e3e4d9990c89e8e1d189861395f908008d622485bd3b5f810
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+
 Package: proxyscan-script
 Version: 0.0.2
 Architecture: all
